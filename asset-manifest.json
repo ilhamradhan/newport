@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/newport/static/css/main.30a041e4.chunk.css",
+    "main.js": "/newport/static/js/main.922ec583.chunk.js",
+    "main.js.map": "/newport/static/js/main.922ec583.chunk.js.map",
+    "runtime-main.js": "/newport/static/js/runtime-main.b2533885.js",
+    "runtime-main.js.map": "/newport/static/js/runtime-main.b2533885.js.map",
+    "static/js/2.d2977431.chunk.js": "/newport/static/js/2.d2977431.chunk.js",
+    "static/js/2.d2977431.chunk.js.map": "/newport/static/js/2.d2977431.chunk.js.map",
+    "index.html": "/newport/index.html",
+    "precache-manifest.cc10b93238bd38f5c09e091a736507e3.js": "/newport/precache-manifest.cc10b93238bd38f5c09e091a736507e3.js",
+    "service-worker.js": "/newport/service-worker.js",
+    "static/css/main.30a041e4.chunk.css.map": "/newport/static/css/main.30a041e4.chunk.css.map",
+    "static/js/2.d2977431.chunk.js.LICENSE.txt": "/newport/static/js/2.d2977431.chunk.js.LICENSE.txt",
+    "static/media/ilham.jpg": "/newport/static/media/ilham.562b6d8f.jpg",
+    "static/media/powerbidashboard1.png": "/newport/static/media/powerbidashboard1.13352d3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2533885.js",
+    "static/js/2.d2977431.chunk.js",
+    "static/css/main.30a041e4.chunk.css",
+    "static/js/main.922ec583.chunk.js"
+  ]
+}
