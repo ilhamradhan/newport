@@ -1,0 +1,38 @@
+{
+  "skills": [{
+      "id": 0,
+      "skillName": "SQL",
+      "amount": "85"
+    },
+    {
+      "id": 1,
+      "skillName": "MS Excel",
+      "amount": "80"
+    },
+    {
+      "id": 2,
+      "skillName": "Tableau",
+      "amount": "70"
+    },
+    {
+      "id": 3,
+      "skillName": "MS Power BI",
+      "amount": "70"
+    },
+    {
+      "id": 4,
+      "skillName": "Acumatica",
+      "amount": "60"
+    },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "50"
+    },
+    {
+      "id": 6,
+      "skillName": "Python",
+      "amount": "50"
+    }
+  ]
+}

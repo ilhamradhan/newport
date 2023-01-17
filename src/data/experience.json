@@ -1,0 +1,49 @@
+{
+  "experience": [{
+      "id": 3,
+      "link": "https://public.tableau.com/views/LearningDashboardDisneyplusData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link",
+      "company": "Tableau Dashboard 2",
+      "dateFrom": "- Click me",
+      "title": "Disneyplus TV shows and movies",
+      "info": [
+        "Showing movies and TV shows details in Disneyplus",
+        "Easy dashboard for learning purpose,  data sourced from Kaggle."
+      ],
+      "stack": ["Tableau", "Kaggle"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://public.tableau.com/views/Mylast100matchesDota2/WinrateperDays?:language=en-US&:display_count=n&:origin=viz_share_link",
+      "company": "Tableau Dashboard 1",
+      "title": "My last 100 Dota2 matches",
+      "dateFrom": "- Work in Progress",
+      "info": [
+        "Self analysis my last 100 matches of Dota2 for fun purpose",
+        "Data sourced from OpenDota API"
+      ],
+      "stack": ["REST API", "Tableau", "Phyton", "Jupyter Notebook"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #FF0000, #800000)",
+      "colourSecondary": "linear-gradient(to bottom, #FF0000, #800000)"
+    },
+    {
+      "id": 1,
+      "link": "https://nxtgen-digital.de/lagerbestand-mit-stichtagsbewertung/",
+      "company": "Power BI Dashboard 1",
+      "title": "Evaluation of inventory on the key dates",
+      "dateFrom": "- Click me",
+      "info": [
+        "List of inventory items from different locations",
+        "Created during my work for a private customer",
+        "Data extracted from their Acumatica Cloud and proccessed in Power BI"
+      ],
+      "stack": ["Power BI", "REST API", "DAX"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #FFA500, #B8860B)",
+      "colourSecondary": "linear-gradient(to bottom, #FFA500, #B8860B)"
+    }
+  ]
+}
