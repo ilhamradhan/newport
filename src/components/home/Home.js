@@ -36,8 +36,7 @@ const Home = () => {
                 options={{
                   strings: [
                     'I like data.',
-                    'I love learning new tech.',
-                    'I like meeting new people.',
+                    'I love learning new technologies.',
                   ],
                   autoStart: true,
                   loop: true,
