@@ -30,6 +30,12 @@ const About = () => {
               </span>{' '}
               My current skill sets are SQL, Power BI, Tableau, CRM Analytics, ERP knowledge, Salesforce, ETL process, and Automation.
             </p>
+            <p>
+              <span role = "img" aria-label = "cloud"> 
+                💬
+              </span>{' '}
+              I speak English, German and Indonesian. 
+            </p>
             <div className="typewriter">
               <p className="typewriter-start">
                 <span role="img" aria-label="cloud">
@@ -41,10 +47,9 @@ const About = () => {
                 options={{
                   strings: [
                     'learning new technologies',
-                    'exercising',
                     'solving complex problems',
                     'trying new things',
-                    'colaborating with others',
+                    'collaborating with others',
                     'pc gaming',
                     'mechanical keyboards',
                   ],

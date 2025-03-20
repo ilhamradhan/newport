@@ -2,35 +2,40 @@
   "skills": [{
       "id": 0,
       "skillName": "SQL",
-      "amount": "85"
+      "amount": "90"
     },
     {
       "id": 1,
+      "skillName": "CRM Analytics",
+      "amount": "90"
+    },
+    {
+      "id": 2,
       "skillName": "MS Excel",
       "amount": "80"
     },
     {
-      "id": 2,
+      "id": 3,
       "skillName": "Tableau",
       "amount": "70"
     },
     {
-      "id": 3,
+      "id": 4,
+      "skillName": "Salesforce",
+      "amount": "70"
+    },
+    {
+      "id": 5,
       "skillName": "MS Power BI",
       "amount": "70"
     },
     {
-      "id": 4,
+      "id": 6,
       "skillName": "Acumatica",
       "amount": "60"
     },
     {
-      "id": 5,
-      "skillName": "REST",
-      "amount": "50"
-    },
-    {
-      "id": 6,
+      "id": 7,
       "skillName": "Python",
       "amount": "50"
     }
