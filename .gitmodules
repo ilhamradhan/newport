@@ -1,0 +1,3 @@
+[submodule "path/to/submodule"] 
+   path = node_modules/.cache/gh-pages/https!github.com!ilhamradhan!newport.git
+   url = git://https://github.com/ilhamradhan/newport.git
