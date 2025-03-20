@@ -65,7 +65,7 @@ const About = () => {
               >
                 interesting projects
               </Link>
-              , and found some different way of thingking. This portfolio also was solely build to document my data visualizing skills and to pursue my further career in analytical role.
+              , and found some different way of thinking. This portfolio also was solely build to document my data visualizing skills and to pursue my further career in analytical role.
             </p>
             <div className="location-wrapper">
               <svg
