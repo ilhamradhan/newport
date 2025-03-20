@@ -21,7 +21,7 @@ const Contact = () => {
             <img src={github} alt="Github Logo" width="40px" />
           </a>
           <a
-            href="https://www.linkedin.com/in/ilhamakbarramadhan/"
+            href="https://www.linkedin.com/in/ilrama/"
             target="_blank"
             rel="noopener noreferrer"
           >

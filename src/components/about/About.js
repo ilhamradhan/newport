@@ -22,13 +22,13 @@ const About = () => {
               <span role="img" aria-label="cloud">
                 💬
               </span>{' '}
-              I'm a Junior IT Project Manager that aspire to be a Data Analyst.  
+              I'm a Business Intelligence Analyst.  
             </p>
             <p>
               <span role="img" aria-label="cloud">
                 💬
               </span>{' '}
-              My current skill sets are SQL, Power BI, Tableau, ERP knowledge, Make(formerly Integromat), Project management and IT - Consulting.
+              My current skill sets are SQL, Power BI, Tableau, CRM Analytics, ERP knowledge, Salesforce, ETL process, and Automation.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
